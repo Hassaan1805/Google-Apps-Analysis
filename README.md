@@ -1,5 +1,3 @@
-# Google-Apps-Analysis
-
 # 📊 Google Play Store Apps Analysis
 
 ## 📚 Project Overview
