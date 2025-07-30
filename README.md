@@ -85,8 +85,3 @@ Edit, expand, or add models—like regression or classification—for extra ML p
 
 Pull requests welcome! For big changes, please open an issue for discussion.
 
-## 🪪 License
-
-Open source under the [MIT License](LICENSE).
-
-> *See firsthand how to wrangle real-world app data, visualize trends, build metrics, and do basic machine learning—all in one project!* 🚀
